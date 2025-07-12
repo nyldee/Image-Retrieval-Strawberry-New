@@ -2,4 +2,4 @@
 * text=auto
 
 # don't tect jupyter as language for github repo
-*.ipynb -linguist-detectable
+*.ipynb -linguist-detectable=false
